@@ -52,3 +52,17 @@
   margin-right: 10px;
   font-size: 14px;
 }
+
+.detail__outer {
+  height: 100%;
+  width: 100%;
+}
+
+.detail__size {
+  height: 400px;
+  width: 300px;
+}
+.detail__location {
+  text-align: center;
+  margin-top: 80px;
+}
